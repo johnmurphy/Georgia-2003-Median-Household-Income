@@ -1,2 +1,2 @@
 # Georgia-2003-Median-Household-Income
-R Script for scraping website that contains Georgia 2003 Household Median Income
+This repository contains a R Script for scraping a website that contains Georgia 2003 Household Median Income by county. 
