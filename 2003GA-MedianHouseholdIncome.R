@@ -1,6 +1,6 @@
 '****************************************************************************************************************
 
-Small script to scrape infoplease website to obtain 2003 Georgia median household income data.
+Small script to scrape the infoplease website to obtain 2003 Georgia median household income data.
 2003 data is not 100% available from the American Community Survey (ACS). This 3rd party website provides data for 
 all counties in Georgia for 2003.
 
